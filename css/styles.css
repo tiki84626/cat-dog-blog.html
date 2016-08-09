@@ -12,7 +12,29 @@ p {
   font-family: sans-serif;
 }
 
+img {
+  width: 40%;
+}
+
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+.black-background {
+  background-color: black;
+}
+
+.white {
+  color: white;
+}
+
+.inverse {
+  background-color: black;
+  color: white;
+}
+
+.normal {
+  background-color: white;
+  color: black;
 }
